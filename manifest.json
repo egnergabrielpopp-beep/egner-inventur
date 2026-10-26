@@ -10,7 +10,7 @@
   "theme_color": "#B71D4A",
   "icons": [
     {
-      "src": "./egner-inventur/icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "svg+xml",
       "purpose": "any maskable"
